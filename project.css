@@ -1,0 +1,28 @@
+body{
+	background-color: skyblue;
+}
+img{width:30%;
+	border:1px blue;
+	border-radius:05px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+.dayo{
+	background-color: lightpink;
+	padding: 30px;
+   }
+   .sites{
+   	float: left;
+   	width: 20%;
+   }
+ .dar{
+ 	text-align: center;
+ 	background-color: blue;
+ 	color: white;
+ }
+ .samzy{
+ 	background-color:red;
+ 	place-item:center; 
+
+ }
